@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389302340908",
+    "firebase_url": "https://bedavailability-e718c-default-rtdb.firebaseio.com",
+    "project_id": "bedavailability-e718c",
+    "storage_bucket": "bedavailability-e718c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389302340908:android:6bb5fe71e1bd49b3f13089",
+        "android_client_info": {
+          "package_name": "com.krudya.bed_availablity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389302340908-6itp71e0joefchfp0ulehurbgc2hhccq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0oYa4G7w1my0jouSOkfmRYRN3J0xf2CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389302340908-6itp71e0joefchfp0ulehurbgc2hhccq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
